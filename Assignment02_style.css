@@ -1,0 +1,19 @@
+/* Dotted border */
+h1{
+    color: blue;
+    margin: 4px;
+}
+
+img{
+  border: 2px solid blue;
+  margin: 4px;
+}
+
+/* Solid border */
+h2 {
+  color: grey;
+  margin: 4px;
+}
+a{
+    margin: 4px;
+}
